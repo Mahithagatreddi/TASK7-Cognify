@@ -22,3 +22,4 @@ task7-advanced-api/
 │   └── dashboard.ejs      # Real-time data visualization UI template
 ├── server.js              # Core gateway router & async aggregator
 └── package.json           # Manifest tracking project dependencies"# TASK7-Cognify" 
+"# TASK7-Cognify" 
