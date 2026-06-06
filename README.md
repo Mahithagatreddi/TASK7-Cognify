@@ -23,3 +23,4 @@ task7-advanced-api/
 ├── server.js              # Core gateway router & async aggregator
 └── package.json           # Manifest tracking project dependencies"# TASK7-Cognify" 
 "# TASK7-Cognify" 
+"# TASK7-Cognify" 
